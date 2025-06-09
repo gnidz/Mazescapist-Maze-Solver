@@ -4,13 +4,17 @@
 
 ### About This Project
 
-This repository houses the Python code I developed to conquer the incredibly challenging **Mazescapist** Minecraft map. This map throws you into a complex labyrinth with a strict **8-day in-game time limit** to find the exit. My code is designed to help analyze the maze, identify optimal paths, and guide my decisions to escape before time runs out.
+This repository houses the Python code I developed to conquer the ***Mazescapist*** Minecraft map, a CTM (Complete The Monument) adventure inspired by the movie The Maze Runner. The goal is not merely to escape, but to find all 16 wools scattered throughout a vast, mysterious maze whose layout changes daily.
+
+This code is my strategic tool to tackle this challenge. It's designed to analyze the maze's structure, track its daily changes, and identify the ***repeating 8-day cycle of its layout***. By understanding this pattern, the program can help pinpoint optimal paths, manage the strict 8-day in-game time limit, and guide my decisions to successfully complete the monument before time runs out.
 
 ---
 
 ### The Challenge: Mazescapist Minecraft Map
 
-I recently dove into the intense world of the "Mazescapist" Minecraft map, available at [mazescapist ver 1.16.5](https://www.minecraftmaps.com/puzzle-maps/mazescapist). It's not just any maze; its intricate design and the added pressure of a limited in-game timeframe make it a true test of strategy and spatial reasoning.
+Available at [mazescapist ver 1.16.5](https://www.minecraftmaps.com/puzzle-maps/mazescapist), Mazescapist is an open-world adventure that tests strategy, memory, and combat skills. The primary challenge stems from its core mechanic: the maze's layout shifts every day, creating a dynamic and unpredictable environment.
+
+Players must explore this ever-changing labyrinth to solve its mysteries, find the 16 hidden wools, and survive encounters with dangerous enemies. Along the way, helpful NPCs and powerful gear can be discovered to aid in the journey. The map is intentionally designed to be difficult, demanding efficient exploration and a sharp memory to master the maze's 8-day cycle.
 
 ---
 
