@@ -12,7 +12,7 @@ This code is my strategic tool to tackle this challenge. It's designed to analyz
 
 ### The Challenge: Mazescapist Minecraft Map
 
-Available at [mazescapist ver 1.16.5](https://www.minecraftmaps.com/puzzle-maps/mazescapist), Mazescapist is an open-world adventure that tests strategy, memory, and combat skills. The primary challenge stems from its core mechanic: the maze's layout shifts every day, creating a dynamic and unpredictable environment.
+Available at [mazescapist ver 1.16.5](https://www.minecraftmaps.com/46701-mazescapist), Mazescapist is an open-world adventure that tests strategy, memory, and combat skills. The primary challenge stems from its core mechanic: the maze's layout shifts every day, creating a dynamic and unpredictable environment.
 
 Players must explore this ever-changing labyrinth to solve its mysteries, find the 16 hidden wools, and survive encounters with dangerous enemies. Along the way, helpful NPCs and powerful gear can be discovered to aid in the journey. The map is intentionally designed to be difficult, demanding efficient exploration and a sharp memory to master the maze's 8-day cycle.
 
